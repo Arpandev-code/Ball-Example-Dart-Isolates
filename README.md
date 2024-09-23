@@ -1,6 +1,6 @@
-# flutter_3d
+# Isolates in Flutter
 
-A new Flutter project.
+Learning Isolates in Dart with Ball Example
 
 ## Getting Started
 
